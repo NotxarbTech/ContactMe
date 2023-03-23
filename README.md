@@ -3,7 +3,6 @@
 ContactMe is a simple and user-friendly web application that allows users to create and share personalized online business cards with others via QR code. The application is built with HTML, CSS, Django, and SQLite3. This project was developed as a portfolio project for learning web development skills.
 
 ### Installation
-To use ContactMe, you can navigate to the live website here.
 
 If you would like to run the application locally for development purposes, follow these steps:
 
