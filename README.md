@@ -22,6 +22,12 @@ If you would like to run the application locally for development purposes, follo
 - Dynamic QR code generation for easy sharing with others
 - Responsive design for desktop and mobile devices
 
+### Screenshots
+
+![Home page](https://github.com/NotxarbTech/ContactMe/contactme1.png)
+![Example buisness card](https://github.com/NotxarbTech/ContactMe/contactme2.png)
+![Create a buisness card](https://github.com/NotxarbTech/ContactMe/contactme3.png)
+
 ### Technologies Used
 - HTML
 - CSS
