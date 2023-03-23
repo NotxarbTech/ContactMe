@@ -24,9 +24,9 @@ If you would like to run the application locally for development purposes, follo
 
 ### Screenshots
 
-![Home page](https://github.com/NotxarbTech/ContactMe/contactme1.png)
-![Example buisness card](https://github.com/NotxarbTech/ContactMe/contactme2.png)
-![Create a buisness card](https://github.com/NotxarbTech/ContactMe/contactme3.png)
+![Home page](https://github.com/NotxarbTech/ContactMe/blob/main/contactme1.png)
+![Example buisness card](https://github.com/NotxarbTech/ContactMe/blob/main/contactme2.png)
+![Create a buisness card](https://github.com/NotxarbTech/ContactMe/blob/main/contactme3.png)
 
 ### Technologies Used
 - HTML
