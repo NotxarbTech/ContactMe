@@ -1,0 +1,29 @@
+{% extends "contact/layout.html" %}
+
+{% block body %}
+
+<p class="text-center mt-5">*If this is your contact, be sure to bookmark this page so you don't lose it!*</p>
+<div class="container">
+    <div class="row">
+        <div class="col-md-6 offset-md-3">
+            <div class="card">
+                <div class="card-header text-center">
+                    <h1>Name: {{ contact.name }}</h1>
+                </div>
+                <div class="card-body text-center">
+                    <h3>Phone Number: {{ contact.phone_number }}</h3>
+                </div>
+                <div class="card-body text-center">
+                    <p>Profile Picture</p>
+                    <img src="{{ contact.profile_pic_url }}" alt="Profile Picture" style="max-width: 400px; max-height: 400px;">
+                </div>
+                <div class="card-body text-center">
+                    <p>QR Code</p>
+                    <img src="{{ contact.qr_code_url }}" alt="QR Code" style="max-width: 400px; max-height: 400px;">
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+{% endblock %}
