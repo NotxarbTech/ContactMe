@@ -47,5 +47,6 @@ If you would like to contribute to this project, please follow these steps:
 
 If you have any questions or issues with ContactMe, please feel free to open an issue on this repository or reach out to me on Discord at NotxarbTech#2101.
 
-License
+### License
+
 This project is licensed under the MIT License.
