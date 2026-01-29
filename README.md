@@ -9,7 +9,7 @@ If you would like to run the application locally for development purposes, follo
 - Clone this repository to your local machine using git clone https://github.com/NotxarbTech/contactme.git
 - Navigate to the project directory with cd contactme
 - Create a virtual environment with python -m venv venv
-- Activate the virtual environment with source venv/bin/activate
+- Activate the virtual environment with .\venv\Scripts\activate.bat
 - Install Django with pip install django
 - Install qrcode with pip install qrcode
 - Run the Django development server with python manage.py runserver
