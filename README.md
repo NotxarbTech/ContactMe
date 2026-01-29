@@ -12,6 +12,7 @@ If you would like to run the application locally for development purposes, follo
 - Activate the virtual environment with .\venv\Scripts\activate.bat
 - Install Django with pip install django
 - Install qrcode with pip install qrcode
+- Install Pillow with pip install pillow
 - Run the Django development server with python manage.py runserver
 - Navigate to localhost:8000 in your browser to view the app
 
