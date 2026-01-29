@@ -6,7 +6,7 @@ ContactMe is a simple and user-friendly web application that allows users to cre
 
 If you would like to run the application locally for development purposes, follow these steps:
 
-- Clone this repository to your local machine using git clone https://github.com/your-username/contactme.git
+- Clone this repository to your local machine using git clone https://github.com/NotxarbTech/contactme.git
 - Navigate to the project directory with cd contactme
 - Create a virtual environment with python -m venv venv
 - Activate the virtual environment with source venv/bin/activate
