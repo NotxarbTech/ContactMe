@@ -1,0 +1,27 @@
+body {
+    color: #fff;
+    background: linear-gradient(#141e30, #243b55) no-repeat fixed;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.container, .index-container {
+    padding: 1%;
+    background: rgba(0,0,0,0.6);
+    border-radius: 1rem;
+    box-sizing: border-box;
+    margin-bottom: 1rem;
+}
+
+.profile-img {
+    max-height: 400px;
+    max-width: 400px;
+}
+
+.card-header,
+.card-body {
+    color: #000;
+}
+
+.jumbotron {
+    margin-bottom: 0;
+}
